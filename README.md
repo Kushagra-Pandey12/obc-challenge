@@ -114,7 +114,6 @@ For questions or further assistance with this project, reach out to:
 
 - Developer: Kushagra Pandey
 - Email: kushagrapandey1210@gmail.com
-- Repository: [Link to your GitHub repo]
 
 ---
 
